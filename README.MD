@@ -19,7 +19,7 @@ npm install -g expo-cli
 ```
 2. Install Expo CLI globally on your computer by running:
 ```bash
-git clone https://github.com/yourusername/comp3074project.git
+git clone https://github.com/bycold1/restaurant_app.git
 ```
 Replace yourusername with the appropriate GitHub username.
 
