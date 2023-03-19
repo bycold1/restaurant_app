@@ -16,7 +16,8 @@ A React Native application built with Expo, featuring navigation, maps, and a cu
 
 ```bash
 npm install -g expo-cli
-
+```
 2. Install Expo CLI globally on your computer by running:
 ```bash
 git clone https://github.com/yourusername/comp3074project.git
+```
